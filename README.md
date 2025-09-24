@@ -5,8 +5,7 @@
 ² Department of Applied Physics, Graduate School of Engineering, Tohoku University, Sendai 980-8579, Japan  
 ³ Department of Mechanical and Aerospace Engineering, Tohoku University, Sendai 980-0845, Japan  
 ⁴ Advanced ICT Research Institute, NICT, Tokyo 184-8795, Japan  
-⁵ Research Institute for Science and Technology, Tokyo University of Science, Tokyo 162-8601, Japan  
-**Date:** August 13, 2025  
+⁵ Research Institute for Science and Technology, Tokyo University of Science, Tokyo 162-8601, Japan   
 
 ---
 
